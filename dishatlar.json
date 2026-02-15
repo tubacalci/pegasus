@@ -1,0 +1,185 @@
+{
+  "menuType": "international",
+  "currency": "EUR",
+  "lastUpdated": "2025-11",
+  "categories": [
+    {
+      "id": "sandwiches",
+      "title": "Sandviçler",
+      "items": [
+        {
+          "name": "Jambonlu & Çedar Peynirli Sandviç",
+          "price": 11,
+          "currency": "EUR"
+        },
+        {
+          "name": "Sezar Soslu Tavuklu Sandviç",
+          "price": 11,
+          "currency": "EUR"
+        },
+        {
+          "name": "Pide Ekmeğinde Beyaz Peynirli Sandviç",
+          "price": 11,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "hot_meals",
+      "title": "Sıcak Yemekler",
+      "items": [
+        {
+          "name": "Tavuk Şinitzel",
+          "price": 18,
+          "currency": "EUR"
+        },
+        {
+          "name": "Izgara Köfte",
+          "price": 18,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "menu_offers",
+      "title": "Menü Fırsatları",
+      "items": [
+        {
+          "name": "Sandviç + İçecek",
+          "price": 15,
+          "currency": "EUR"
+        },
+        {
+          "name": "Sıcak Yemek + İçecek",
+          "price": 22,
+          "currency": "EUR"
+        },
+        {
+          "name": "Sıcak Yemek + İçecek + Şarap",
+          "price": 28,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "hot_drinks",
+      "title": "Sıcak İçecekler",
+      "items": [
+        {
+          "name": "Lipton Çay / Lipton Yeşil Çay",
+          "price": 6,
+          "currency": "EUR"
+        },
+        {
+          "name": "Türk Kahvesi / Cappuccino / Filtre Kahve",
+          "price": 6,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "cold_drinks",
+      "title": "Soğuk İçecekler",
+      "items": [
+        {
+          "name": "Damla Su / Sırma Soda",
+          "price": 3,
+          "currency": "EUR"
+        },
+        {
+          "name": "Coca Cola / Fanta / Sprite / Cappy / FuseTea",
+          "price": 6,
+          "currency": "EUR"
+        },
+        {
+          "name": "Red Bull",
+          "price": 8,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "sweet_snacks",
+      "title": "Tatlı Atıştırmalıklar",
+      "items": [
+        {
+          "name": "Haribo / M&M’s",
+          "price": 7,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kurabiye / Kek / Snickers / KitKat",
+          "price": 7,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "savory_snacks",
+      "title": "Tuzlu / Sıcak Atıştırmalıklar",
+      "items": [
+        {
+          "name": "Badem / Fıstık",
+          "price": 7,
+          "currency": "EUR"
+        },
+        {
+          "name": "Patates Cipsi",
+          "price": 7,
+          "currency": "EUR"
+        },
+        {
+          "name": "Domates Çorbası",
+          "price": 7,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tavuklu Noodle",
+          "price": 7,
+          "currency": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "alcoholic_drinks",
+      "title": "Alkollü İçecekler",
+      "items": [
+        {
+          "name": "Efes Pilsen",
+          "price": 8,
+          "currency": "EUR"
+        },
+        {
+          "name": "Heineken",
+          "price": 10,
+          "currency": "EUR"
+        },
+        {
+          "name": "JP Chenet Şarap",
+          "price": 14,
+          "currency": "EUR"
+        },
+        {
+          "name": "Angora Şarap",
+          "price": 12,
+          "currency": "EUR"
+        },
+        {
+          "name": "Vodka Absolut",
+          "price": 15,
+          "currency": "EUR"
+        },
+        {
+          "name": "Jack Daniels",
+          "price": 15,
+          "currency": "EUR"
+        },
+        {
+          "name": "Limon Spritz",
+          "price": 12,
+          "currency": "EUR"
+        }
+      ]
+    }
+  ]
+}
