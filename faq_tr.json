@@ -1,0 +1,14 @@
+{
+  "faq_list": [
+    {
+      "category": "Bilet İşlemlerim",
+      "q": "Nasıl bilet satın alabilirim?",
+      "a": "Biletlerinizi www.flypgs.com ana sayfasında sol tarafta bulunan Bilet Satış sekmesinden veya iOS/Android uygulamalarımız üzerinden Visa/Mastercard kredi kartlarınızı kullanarak satın alabilirsiniz. Ayrıca 0888 228 12 12 numaralı çağrı merkezimiz ya da acentelerimiz aracılığı ile de biletinizi satın alabilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Online check-in işlemini ne zaman yapabilirim?",
+      "a": "En erken 7 gün öncesinden, en geç uçuşunuza iç hatlarda 45 dakika, dış hatlarda 60 dakika kalana kadar flypgs.com veya mobil uygulamalar üzerinden check-in yapabilirsiniz."
+    }
+  ]
+}
