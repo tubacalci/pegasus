@@ -6,9 +6,56 @@
       "a": "Biletlerinizi www.flypgs.com ana sayfasında sol tarafta bulunan Bilet Satış sekmesinden veya iOS/Android uygulamalarımız üzerinden Visa/Mastercard kredi kartlarınızı kullanarak satın alabilirsiniz. Ayrıca 0888 228 12 12 numaralı çağrı merkezimiz ya da acentelerimiz aracılığı ile de biletinizi satın alabilirsiniz."
     },
     {
+      "category": "Bilet İşlemlerim",
+      "q": "Biletimi nasıl iptal edebilirim veya uçuşumu nasıl değiştirebilirim?",
+      "a": "flypgs.com veya mobil uygulamada 'Bilet İşlemlerim' bölümüne girerek PNR numarası ve soyadınızla iptal veya değişiklik işlemlerini gerçekleştirebilirsiniz. Ücret iadesi bilet sınıfınıza göre değişiklik gösterir."
+    },
+    {
+      "category": "Bilet İşlemlerim",
+      "q": "Bilet üzerinde isim değişikliği yapabilir miyim?",
+      "a": "Rezervasyon yapılmış veya satın alınmış bir bilet üzerinde isim değişikliği yapılması kurallar gereği mümkün değildir."
+    },
+    {
+      "category": "Bilet İşlemlerim",
+      "q": "Biletimi açığa almak istiyorum ne yapmalıyım?",
+      "a": "Bileti değiştirdiğiniz tarihten itibaren 1 yıl içinde kullanabilirsiniz. Sitemizdeki Bilet İşlemleri bölümünden veya 0888 228 12 12 numaralı çağrı merkezinden bu işlemi yapabilirsiniz."
+    },
+    {
+      "category": "Bilet İşlemlerim",
+      "q": "Rezervasyon kodumu (PNR) ve bilet numaramı unuttum ne yapmalıyım?",
+      "a": "0888 228 12 12 numaralı çağrı merkezimizi arayarak uçuş bilgileriniz hakkında detaylı bilgi alabilirsiniz."
+    },
+    {
+      "category": "Rezervasyon İşlemleri",
+      "q": "Ücretli rezervasyon (Fiyat Sabitleme) nedir?",
+      "a": "Arama yaptığınız uçuşta yakaladığınız fiyatı 'Fiyatı Sabitlemek İstiyorum' seçeneği ile belirli bir ücret karşılığında belirli bir süreliğine ayırtabilirsiniz."
+    },
+    {
       "category": "Check-in",
       "q": "Online check-in işlemini ne zaman yapabilirim?",
-      "a": "En erken 7 gün öncesinden, en geç uçuşunuza iç hatlarda 45 dakika, dış hatlarda 60 dakika kalana kadar flypgs.com veya mobil uygulamalar üzerinden check-in yapabilirsiniz."
+      "a": "Uçuşunuza en erken 7 gün kala başlayabilir; iç hatlarda 45 dakika, dış hatlarda 60 dakika kalana kadar flypgs.com veya mobil uygulamadan tamamlayabilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Mobil biniş kartı (barkod) nedir?",
+      "a": "Check-in sonrası SMS veya e-posta ile gelen QR kodudur. Bagajınız yoksa bu barkodla doğrudan güvenlik geçişine ve uçağa gidebilirsiniz."
+    },
+    {
+      "category": "Paket Satış",
+      "q": "Pegasus paketleri nelerdir ve özellikleri neler?",
+      "a": "Süper Eko (yalnızca dış hat), Eko, Avantaj ve Comfort Flex olmak üzere 4 paket bulunur. Comfort Flex, 2 saate kadar kesintisiz iptal ve değişiklik hakkı sunar."
+    },
+    {
+      "category": "Hizmetler",
+      "q": "Biletime yemek veya ek bagaj ekleyebilir miyim?",
+      "a": " flypgs.com 'Seyahat Hizmetlerimiz' başlığı altından PNR ve soyadınızla uçuşunuza yemek, koltuk veya ek bagaj eklemesi yapabilirsiniz."
+    },
+    {
+      "category": "Operasyonel",
+      "q": "Hava muhalefeti nedeniyle uçuşum iptal oldu ne yapmalıyım?",
+      "a": "Aynı parkurdaki başka bir uçuşa ücretsiz değişiklik yapabilir veya bilet ücret iadesini kesintisiz olarak talep edebilirsiniz."
     }
-  ]
+  ],
+  "faqCount": 11,
+  "fetchedAt": "2026-02-16T10:15:00.000Z"
 }
