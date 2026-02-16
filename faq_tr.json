@@ -94,6 +94,71 @@
       "category": "Rezervasyon İşlemleri",
       "q": "Kaç kişiye kadar grup rezervasyonu yapabilirim?",
       "a": "Web sitemizden 10-25 kişi için direkt rezervasyon yapabilir, 26-100 kişi arasındaki taleplerinizi talep formu aracılığıyla iletebilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Android cihazımda SMS linki ile gelen barkod açılmıyor, ne yapmalıyım?",
+      "a": "SMS'teki linke tıkladığınızda 'Bağlantıyı Aç'ı ve ardından varsayılan tarayıcınızı seçin. Uygulamaya yönlendirilirseniz ana sayfaya düşebilirsiniz, bu yüzden tarayıcı üzerinden açmanız önerilir."
+    },
+    {
+      "category": "Check-in",
+      "q": "Online check-in nedir? Ne işe yarar?",
+      "a": "Havaalanına gitmeden flypgs.com üzerinden PNR ve ad-soyad ile bilet kontrolü yapmanızı sağlar. Bagajınız yoksa biniş kartınızla doğrudan kapıya geçerek zaman kazanabilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Nasıl online check-in yapabilirim?",
+      "a": "flypgs.com'daki 'Check-in' sekmesinden, mobil uygulamadan veya mobil web sitesinden PNR ve ad-soyad bilgilerinizle işleminizi gerçekleştirebilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Online check-in işlemini ne zaman yapabilirim?",
+      "a": "Uçuşunuza en erken 7 gün kala başlayabilir; iç hatlarda son 45 dakika, dış hatlarda ise son 60 dakikaya kadar işleminizi tamamlayabilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Mobil Uygulamalar üzerinden check-in işlemini yapabilir miyim?",
+      "a": "Evet, Pegasus iPhone ve Android uygulamaları üzerinden PNR ve ad-soyad ile check-in yapabilir, mobil biniş kartınızı (barkod) alarak uçağa geçiş yapabilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Mobil Biniş Kartı (Barkod) nedir? Ne işe yarar?",
+      "a": "Kağıt biniş kartı yerine geçen QR kodudur. SMS veya e-posta ile iletilen linkten ulaşılabilir. İnternet kesilme ihtimaline karşı ekran görüntüsü almanız önerilir."
+    },
+    {
+      "category": "Check-in",
+      "q": "Mobil Biniş Kartıma (Barkod) tekrardan nasıl ulaşabilirim?",
+      "a": "Web sitesinde 'Online Check-in' veya mobil uygulamada 'Mobil Biniş Kartlarım' menüsünden bilgilerinizi girerek kartınıza tekrar ulaşabilir ve SMS/E-posta olarak gönderebilirsiniz."
+    },
+    {
+      "category": "Check-in",
+      "q": "Bilet satın alırken uçuş özetinden görünen 'Check-In Bedeli' nedir?",
+      "a": "Tüm satış kanallarında biletleme esnasında alınan, uygulama kuralları çerçevesindeki işlem bedelidir."
+    },
+    {
+      "category": "Check-in",
+      "q": "Check-in bedeli kuralları nelerdir?",
+      "a": "Her bir yolcu ve segment için iç hatlarda 15 TRY'den, dış hatlarda ise 10 USD'den başlayan bedeller tahsil edilir. Transit uçuşlarda tek, bağlantılı uçuşlarda her segment için ayrı bedel uygulanır."
+    },
+    {
+      "category": "Check-in",
+      "q": "Check-in bedeli ödendiğinde check-in işlemleri gerçekleştirilmiş oluyor mu?",
+      "a": "Hayır. Bedel ödemesi biletleme aşamasıdır; check-in işlemi uçuş öncesinde online kanallardan ayrıca yapılmalıdır."
+    },
+    {
+      "category": "Check-in",
+      "q": "Aynı PNR numarasında birden fazla uçuş veya yolcu varsa check-in yapabilir miyim?",
+      "a": "Evet. Her bir uçuş ve her bir yolcu için ayrı ayrı veya toplu olarak check-in işlemi yapılması zorunludur."
+    },
+    {
+      "category": "Check-in",
+      "q": "Bağlantılı uçuşlarıma check-in yapabilir miyim?",
+      "a": "Evet. PNR'daki tüm uçuşlara check-in yapılabilir. Zaman kaybetmemek için tüm segmentlerin biniş kartlarını önceden basmanız veya mobil olarak temin etmeniz önerilir."
+    },
+    {
+      "category": "Check-in",
+      "q": "Koltuk satın aldım, check-in yapmama gerek var mı?",
+      "a": "Evet. Koltuk satın almak bir check-in işlemi değildir; uçuş öncesi check-in işlemini ayrıca tamamlamalısınız."
     }
   ]
 }
