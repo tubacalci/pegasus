@@ -1,61 +1,99 @@
 {
   "faq_list": [
     {
-      "category": "Bilet İşlemlerim",
+      "category": "Bilet İşlemleri",
       "q": "Nasıl bilet satın alabilirim?",
-      "a": "Biletlerinizi www.flypgs.com ana sayfasında sol tarafta bulunan Bilet Satış sekmesinden veya iOS/Android uygulamalarımız üzerinden Visa/Mastercard kredi kartlarınızı kullanarak satın alabilirsiniz. Ayrıca 0888 228 12 12 numaralı çağrı merkezimiz ya da acentelerimiz aracılığı ile de biletinizi satın alabilirsiniz."
+      "a": "Biletlerinizi www.flypgs.com ana sayfasında sol tarafta bulunan Bilet Satış sekmesinden, iOS/Android uygulamalarımızdan, 0888 228 12 12 numaralı çağrı merkezimizden ya da acentelerimizden satın alabilirsiniz."
     },
     {
-      "category": "Bilet İşlemlerim",
-      "q": "Biletimi nasıl iptal edebilirim veya uçuşumu nasıl değiştirebilirim?",
-      "a": "flypgs.com veya mobil uygulamada 'Bilet İşlemlerim' bölümüne girerek PNR numarası ve soyadınızla iptal veya değişiklik işlemlerini gerçekleştirebilirsiniz. Ücret iadesi bilet sınıfınıza göre değişiklik gösterir."
+      "category": "Bilet İşlemleri",
+      "q": "Bilet satın alırken ödeme para birimini nasıl değiştirebilirim?",
+      "a": "Sağ tarafta 'Sepetiniz' bölümünde bulunan 'Para Birimini Değiştir' kutusuna tıklayıp seçeneklerden birini tercih ederek farklı bir para birimiyle işlem yapabilirsiniz."
     },
     {
-      "category": "Bilet İşlemlerim",
+      "category": "Bilet İşlemleri",
+      "q": "Satın almış olduğum biletimde nasıl değişiklik yapabilirim?",
+      "a": "flypgs.com veya mobil uygulamadaki 'Bilet İşlemlerim' bölümünden PNR ve soyadınızla değişiklik yapabilirsiniz. Acente veya çağrı merkezinden alınan biletler için 0888 228 12 12 numaralı hattan destek almalısınız."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Uçuşlarımı nasıl iptal edebilirim?",
+      "a": "flypgs.com veya mobil uygulamada 'Bilet İşlemlerim' üzerinden PNR ve soyadınızla giriş yaparak uçuşlarınızın tamamını veya belirli bir kısmını iptal edebilirsiniz."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Biletime ek hizmet veya servis ekleyebilir miyim?",
+      "a": "flypgs.com 'Seyahat Hizmetlerimiz' altındaki 'Uçuş ile İlgili Hizmetlerimiz'den PNR ve soyadınızla yemek, koltuk veya ek bagaj gibi hizmetleri seçip ekleyebilirsiniz."
+    },
+    {
+      "category": "Bilet İşlemleri",
       "q": "Bilet üzerinde isim değişikliği yapabilir miyim?",
       "a": "Rezervasyon yapılmış veya satın alınmış bir bilet üzerinde isim değişikliği yapılması kurallar gereği mümkün değildir."
     },
     {
-      "category": "Bilet İşlemlerim",
-      "q": "Biletimi açığa almak istiyorum ne yapmalıyım?",
-      "a": "Bileti değiştirdiğiniz tarihten itibaren 1 yıl içinde kullanabilirsiniz. Sitemizdeki Bilet İşlemleri bölümünden veya 0888 228 12 12 numaralı çağrı merkezinden bu işlemi yapabilirsiniz."
+      "category": "Bilet İşlemleri",
+      "q": "Biletimdeki iletişim bilgilerimi nasıl değiştirebilirim?",
+      "a": "'Bilet İşlemlerim' bölümünden PNR ve soyadınızla giriş yaparak bilet alırken ilettiğiniz iletişim bilgilerini güncelleyebilirsiniz."
     },
     {
-      "category": "Bilet İşlemlerim",
-      "q": "Rezervasyon kodumu (PNR) ve bilet numaramı unuttum ne yapmalıyım?",
-      "a": "0888 228 12 12 numaralı çağrı merkezimizi arayarak uçuş bilgileriniz hakkında detaylı bilgi alabilirsiniz."
+      "category": "Bilet İşlemleri",
+      "q": "Sefer saat değişikliği veya iptal durumunda ne yapmalıyım?",
+      "a": "Uçuşa 14 günden fazla varsa ve saat 15 dk üzerinde değişmişse ücretsiz iptal/değişiklik hakkınız bulunur. Diğer durumlar için Genel Kurallar madde 5.2 uygulanır."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Hava muhalefeti nedeniyle iptal olan uçuşum için ne yapabilirim?",
+      "a": "Aynı parkurdaki başka bir uçuşa boş koltuk durumuna göre ücretsiz değişiklik yapabilir veya kesintisiz bilet ücret iadesi talep edebilirsiniz."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Biletime bebek veya çocuk yolcu eklemek için ne yapmalıyım?",
+      "a": "Biletinize bebek veya çocuk ekleme işlemleri için 0888 228 12 12 numaralı çağrı merkezimizle iletişime geçmeniz gerekmektedir."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Biletimi açığa almak istiyorum, kurallar nelerdir?",
+      "a": "Açığa alınan biletler 1 yıl içerisinde kullanılabilir. İşlem sırasında sınıf farkı ücreti ve ceza uygulanabilir. Açık biletler devredilemez ve isim değişikliği yapılamaz."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Rezervasyon kodumu (PNR) veya bilet numaramı unuttum, nasıl öğrenebilirim?",
+      "a": "0888 228 12 12 numaralı çağrı merkezimizi arayarak kimlik doğrulaması sonrası uçuş bilgilerinize ulaşabilirsiniz."
+    },
+    {
+      "category": "Bilet İşlemleri",
+      "q": "Hediye bilet kazandım, nasıl kullanabilirim?",
+      "a": "Kampanyalardan kazandığınız hediye biletlerin kullanım işlemleri için 0888 228 12 12 numaralı çağrı merkezimizle görüşmeniz gerekmektedir."
     },
     {
       "category": "Rezervasyon İşlemleri",
-      "q": "Ücretli rezervasyon (Fiyat Sabitleme) nedir?",
-      "a": "Arama yaptığınız uçuşta yakaladığınız fiyatı 'Fiyatı Sabitlemek İstiyorum' seçeneği ile belirli bir ücret karşılığında belirli bir süreliğine ayırtabilirsiniz."
+      "q": "Ücretli rezervasyon (Fiyat Sabitleme) nedir ve nasıl yapılır?",
+      "a": "Fiyatı kaçırmak istemediğiniz durumlarda uçuş seçim sayfasındaki kilit ikonlu 'Fiyatı Sabitlemek İstiyorum' kutusunu seçerek belirli bir ücret karşılığında yerinizi ayırtabilirsiniz."
     },
     {
-      "category": "Check-in",
-      "q": "Online check-in işlemini ne zaman yapabilirim?",
-      "a": "Uçuşunuza en erken 7 gün kala başlayabilir; iç hatlarda 45 dakika, dış hatlarda 60 dakika kalana kadar flypgs.com veya mobil uygulamadan tamamlayabilirsiniz."
+      "category": "Rezervasyon İşlemleri",
+      "q": "Bilet rezervasyonu yapabilir miyim?",
+      "a": "Web sitemiz üzerinden seçtiğiniz uçuşa ait biletinizin fiyatını sabitleyip ücretli rezervasyon işlemi gerçekleştirebilirsiniz."
     },
     {
-      "category": "Check-in",
-      "q": "Mobil biniş kartı (barkod) nedir?",
-      "a": "Check-in sonrası SMS veya e-posta ile gelen QR kodudur. Bagajınız yoksa bu barkodla doğrudan güvenlik geçişine ve uçağa gidebilirsiniz."
+      "category": "Rezervasyon İşlemleri",
+      "q": "Ücretli rezervasyon yaptığım biletimi nasıl satın alabilirim?",
+      "a": "flypgs.com ana sayfasındaki 'Bilet İşlemlerim' bölümüne PNR ve soyadınızla giriş yaparak satın alma işlemini tamamlayabilirsiniz."
     },
     {
-      "category": "Paket Satış",
-      "q": "Pegasus paketleri nelerdir ve özellikleri neler?",
-      "a": "Süper Eko (yalnızca dış hat), Eko, Avantaj ve Comfort Flex olmak üzere 4 paket bulunur. Comfort Flex, 2 saate kadar kesintisiz iptal ve değişiklik hakkı sunar."
+      "category": "Rezervasyon İşlemleri",
+      "q": "Rezervasyonlu uçuş için tarih değişikliği yapabilir miyim?",
+      "a": "Evet yapabilirsiniz ancak bu durumda rezervasyon süresi ortadan kalkar; biletleme işlemini tamamlamanız veya tekrar fiyat sabitlemeniz gerekir."
     },
     {
-      "category": "Hizmetler",
-      "q": "Biletime yemek veya ek bagaj ekleyebilir miyim?",
-      "a": " flypgs.com 'Seyahat Hizmetlerimiz' başlığı altından PNR ve soyadınızla uçuşunuza yemek, koltuk veya ek bagaj eklemesi yapabilirsiniz."
+      "category": "Rezervasyon İşlemleri",
+      "q": "Rezervasyon bilgilerim e-posta ile neden gelmedi?",
+      "a": "Sistemimiz tarafından sadece satın alma işlemi tamamlanmış biletlerin uçuş bilgileri e-posta yoluyla gönderilmektedir."
     },
     {
-      "category": "Operasyonel",
-      "q": "Hava muhalefeti nedeniyle uçuşum iptal oldu ne yapmalıyım?",
-      "a": "Aynı parkurdaki başka bir uçuşa ücretsiz değişiklik yapabilir veya bilet ücret iadesini kesintisiz olarak talep edebilirsiniz."
+      "category": "Rezervasyon İşlemleri",
+      "q": "Kaç kişiye kadar grup rezervasyonu yapabilirim?",
+      "a": "Web sitemizden 10-25 kişi için direkt rezervasyon yapabilir, 26-100 kişi arasındaki taleplerinizi talep formu aracılığıyla iletebilirsiniz."
     }
-  ],
-  "faqCount": 11,
-  "fetchedAt": "2026-02-16T10:15:00.000Z"
+  ]
 }
